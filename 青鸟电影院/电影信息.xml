@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShowList>
+	<Movie id="1.">
+		<Name>非常完美</Name>
+		<Poster>perfect</Poster>
+		<Director>阴萌</Director>
+		<Actor>范冰冰</Actor>
+		<Type>Romance</Type>
+		<Price>60</Price>
+		<Schedule>
+			<Item>09:00</Item>
+		</Schedule>
+	</Movie>
+	<Movie id="2.">
+		<Name>非常完美</Name>
+		<Poster>perfect</Poster>
+		<Director>阴萌</Director>
+		<Actor>范冰冰</Actor>
+		<Type>Romance</Type>
+		<Price>60</Price>
+		<Schedule>
+			<Item>13:00</Item>
+		</Schedule>
+	</Movie>
+</ShowList>
